@@ -1,4 +1,4 @@
-# AI Resume Scanner
+# 📝 AI Resume Scanner 📝
 
 ## Scope & Objective :
 
