@@ -16,3 +16,8 @@
   
  	To reduce the work of HR .
 
+
+## 🎬 Deployed Application 🎬
+
+https://user-images.githubusercontent.com/85839342/234641459-5c9e2c83-4ebb-4975-8d78-f555009bfa9d.mp4
+
