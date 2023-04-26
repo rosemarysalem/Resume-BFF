@@ -12,8 +12,7 @@
   
 ## Business Problem Statement:
 
- 	Employees are the most important part of an organization. Successful employees meet deadlines, make sales, and build the brand
-  through positive customer interactions.
+ 	Employees are the most important part of an organization. Successful employees meet deadlines, make sales, and build the brand through positive customer interactions.
   
  	To reduce the work of HR .
 
